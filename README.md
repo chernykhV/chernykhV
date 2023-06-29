@@ -28,6 +28,7 @@
 ![swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![gitlabci](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![lua](https://img.shields.io/badge/lua-%23FFFFFF.svg?style=for-the-badge&logo=lua&logoColor=%23000D78)
 
 ## 🤝 Connect with me
 
