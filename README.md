@@ -5,6 +5,8 @@
 - 🤖 Most of the time I'm writing on Python and JavaScript. Sometimes on Go.
 - ✉️ You can shoot me an email at [chernykh.vasiliy@icloud.com](mailto:chernykh.vasiliy@icloud.com).
 
+#### My CV: [Chernykh Vasiliy.pdf](https://raw.githubusercontent.com/chernykhV/chernykhV/master/cv.pdf)
+
 ## 🛠 My buzzwords
 
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
