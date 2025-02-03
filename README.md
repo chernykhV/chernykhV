@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vasily
 
 - 🇷🇺 I live in Moscow, Russia. 
-- 🐍 I'm a software engineer at [Inline Telecom Solutions](https://en.inlinetelecom.ru).
+- 🐍 I'm a senior software engineer.
 - 🤖 Most of the time I'm writing on Python and JavaScript. Sometimes on Go.
 - ✉️ You can shoot me an email at [chernykh.vasiliy@icloud.com](mailto:chernykh.vasiliy@icloud.com).
 
