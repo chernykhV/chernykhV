@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Vasily
 
-- 🇷🇺 I live in Moscow, Russia. 
+- 🇷🇺/🇬🇪 I from Moscow, Russia and currently living in Georgia, Tbilisi.
 - 🐍 I'm a senior software engineer.
 - 🤖 Most of the time I'm writing on Python and JavaScript. Sometimes on Go.
 - ✉️ You can shoot me an email at [chernykh.vasiliy@icloud.com](mailto:chernykh.vasiliy@icloud.com).
